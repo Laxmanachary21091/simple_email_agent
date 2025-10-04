@@ -97,7 +97,7 @@ pip install crewai crewai-tools
 
 **Error: "OpenAI API key not found"**
 - Make sure you created `.env` file
-- Check that it contains: `OPENAI_API_KEY=sk-...`
+- Check that it contains: `OPENAI_API_KEY=openai_api_key_here
 
 **Processing takes 20+ seconds**
 - This is normal! AI processing takes time
